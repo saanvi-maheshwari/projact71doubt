@@ -1,0 +1,33 @@
+body{
+    background-color: white;
+    text-align: center;
+}
+.campus-picture2 img{
+   width: 500px;
+    height: 312px;
+}
+.campus-picture3 img{
+   width: 500px;
+    height: 312px;
+}
+.my_menu_bar{
+    position: fixed;
+    width: 100%;
+}
+.bg-primary movie_head{
+    height: 30px;
+    width: 115px
+    
+}
+#new{
+    margin-top: 30px;
+        margin-bottom: 30px;
+}
+.bg-primary movie_head{
+    width: 300px;
+    height: 50px;
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 2.5px;
+    border-color: black
+}
